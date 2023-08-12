@@ -1,6 +1,6 @@
-## StockBot for Discord
+## InvestoBot for Discord
 
-**StockBot** is a Discord bot designed to allow users to virtually trade and manage stocks directly from their Discord application. It integrates with Firebase for database storage and leverages the `yfinance` module for real-time stock details.
+**InvestoBot** is a Discord bot designed to allow users to virtually trade and manage stocks directly from their Discord application. It integrates with Firebase for database storage and leverages the `yfinance` module for real-time stock details.
 
 ### Features:
 
